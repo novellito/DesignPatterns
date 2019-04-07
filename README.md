@@ -1,2 +1,3 @@
-# DesignPatterns
-Random design pattern examples
+# Notes
+
+Random collection of design patterns and notes.
